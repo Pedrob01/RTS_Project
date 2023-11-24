@@ -1,7 +1,10 @@
 # RTS_Project
 # CHNAME_EXAMPLES CREATES FILES ON THE COMPUTER AND THEN DELETES THEM PUT IT SOMEWHERE SAFE
 # WITH CHNAME AS THEY NEED TO BE IN THE SAME DIRECTORY TO RUN
-# RIGHT NOW ONLY CHNAME IS FINISHED, SO LONG AS ANOTHER BUG DOESN'T CRAWL IN THERE
+
+Status: 
+  -chname: almost finished, doesn't work as intended when there is a file and you want to change the directory along with it
+  -chname_examples: Still a baby, only tests single file -r -s and single file -s
 
 Your task is to prepare 2 shell scripts:
 
