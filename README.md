@@ -3,7 +3,7 @@
 # WITH CHNAME AS THEY NEED TO BE IN THE SAME DIRECTORY TO RUN
 
 Status: 
-  -chname: almost finished, doesn't work as intended when there is a file and you want to change the directory along with it
+  -chname: almost finished, doesn't work as intended when there is a file and you want to change the extention along with it
   
   -chname_examples: Still a baby, only tests single file -r -s and single file -s
 
